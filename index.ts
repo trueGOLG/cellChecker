@@ -42,14 +42,19 @@ const dataPoints: DataPoint[] = [
     // { name: 'g', x: 4.2, y: 3.5 },
     // { name: 'h', x: -5, y: -2.5 },
     // { name: 'i', x: -3.1, y: -2.5 },
-    // { name: 'x', x: 0, y: 0 },
-    // { name: 'y', x: 6, y: -4 },
-    { name: 'x1', x: -6, y: -4 },
+    { name: 'x', x: 0, y: 0 },
+    { name: 'y', x: 6, y: -4 },
+    { name: 'x1', x: 0, y: -4 },
     { name: 'x2', x: -6, y: -4 },
     { name: 'x3', x: -6, y: 0 },
     { name: 'x4', x: -6, y: 4 },
     { name: 'x5', x: -2, y: 0 },
     { name: 'x6', x: -4, y: 2 },
+    { name: 'x7', x: 2, y: 1 },
+    { name: 'x8', x: -2, y: 1 },
+    { name: 'x9', x: -3.5, y: 0 },
+    { name: 'x10', x: -6, y: 1 },
+    { name: 'x11', x: 6, y: 1 },
 ]
 
 
